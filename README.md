@@ -26,4 +26,4 @@ E-Commerce is a RESTful full stack website for online shopping built by BootStra
    - OpenID Connect
    - Stripe
    - MySQL
-#### Special thanks to Chad Darby and Luv2Code.com
+#### Special thanks to Chad Darby and luv2code for instructing this project. 
