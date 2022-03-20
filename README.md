@@ -21,7 +21,7 @@ E-Commerce is a RESTful full stack website for online shopping built by BootStra
    - Angular
 ## Back End
    - Spring Data REST
-   - Spring JPA
+   - Spring Data JPA
    - QAuth2
    - OpenID Connect
    - Stripe
