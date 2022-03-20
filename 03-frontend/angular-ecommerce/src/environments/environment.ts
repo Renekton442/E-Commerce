@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  stripePublishableKey: "pk_test_51KfCZSAAxSYfxjo2Dwd5tjWNb8oHANMKzWEPf5EKSIqjQs5YXqsP5hkWXcEDZ8Ekg34xRRN8HYZjwvtgDvGFSKLn00SqqYo4EQ"
+  stripePublishableKey: "your publishable key"
 };
 
 /*
